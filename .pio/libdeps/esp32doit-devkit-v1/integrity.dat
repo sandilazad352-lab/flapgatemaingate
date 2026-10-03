@@ -1,0 +1,8 @@
+bblanchon/ArduinoJson@^6
+plerup/EspSoftwareSerial@^8.2.0
+qub1750ul/SharpIR@^2.0.1
+knolleary/PubSubClient@^2.8
+madhephaestus/ESP32Servo@^3.0.6
+powerbroker2/FireTimer@^1.0.5
+arduino-libraries/Ethernet@^2.0.2
+dfrobot/DFRobotDFPlayerMini@^1.0.6
